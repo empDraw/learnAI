@@ -43,7 +43,7 @@
   - 중요한 Feature를 도출하기 위해서 hasing을 통해 차원을 축소하여 인코딩하였고, 결과값을 배열이 아닌 Map(dictionary - key-value) 로 저장하였다.
   - 큰 규모의 학습세트를 다루기 위해 subsample 을 활용하였고, 본 연구에서는 1%의 subsample이 정확도와 훈련시간이 적절하게 나오는 절충점이였다.
   - feedback 모델은 잘못된 signal을 전달 할 수 있으나 기존모델을 업데이트 하는 것보다 비용이 비쌀때 유용하다.
-  -- (Comparison with a hierarchical model 부분은 해석이 잘 안되어 추후 보충예정 )
+  -(Comparison with a hierarchical model 부분은 해석이 잘 안되어 추후 보충예정 )
   -
 
 ## 6. FEATURE SELECTION
